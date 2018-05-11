@@ -19,8 +19,8 @@ const Carousel = ({
   carouselId
   // rollerWidth,
   // children,
-  // currentSlide,
   // itemWidth,
+  // currentSlide,
   // next,
   // prev,
   // position
